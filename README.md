@@ -12,7 +12,7 @@
     
 ## Description
 
-Creating the back-end of an e-commerce
+Creating the back-end of an e-commerce app that allows you to edit the database with new entries.
 
 ## Video
 
@@ -25,12 +25,18 @@ VIDEO LINK HERE
 Please follow the instructions below:
 
 * Step 1 - Clone Repo. 
-* Step 2 - open terminal in clone directory.
+* Step 2 - Open terminal in clone directory.
+* Step 3 - Import postman collection provided within repo.
+* Step 4 - Create database using provided schema.
+
+SCREENSHOT
 
 ## Getting Started
 
 Please follow the instructions below:
 ``` 
+npm run seed
+
 npm run start
 ```
 SCREENSHOT HERE
