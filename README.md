@@ -18,7 +18,7 @@ Creating the back-end of an e-commerce app that allows you to edit the database 
 
 Video of full functionality of app.
 
-VIDEO LINK HERE
+[VIDEO](https://drive.google.com/file/d/1sp8capBpDe9_5X4g_zgrebD5MM05w9vo/view?usp=sharing)
 
 ## Installation
 
@@ -29,7 +29,8 @@ Please follow the instructions below:
 * Step 3 - Import postman collection provided within repo.
 * Step 4 - Create database using provided schema.
 
-SCREENSHOT
+![image](https://user-images.githubusercontent.com/60657981/178170612-c6fdba04-bc21-4de2-a80f-ef0df53f920f.png)
+
 
 ## Getting Started
 
@@ -39,7 +40,6 @@ npm run seed
 
 npm run start
 ```
-SCREENSHOT HERE
 
 ## License
 [![License: MIT](https://img.shields.io/badge/MIT-License-green)](https://opensource.org/licenses/MIT)
